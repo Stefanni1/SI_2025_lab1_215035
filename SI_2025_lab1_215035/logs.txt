@@ -1,0 +1,12 @@
+* d335112 Final commit
+* 2f93332 Final commit
+* d34d09e Implement functionality for TaskManager
+*   1eac885 I don't know what is this
+|\  
+| * 57e14ef Delete numbers.txt
+| * 08448b2 Delete README.txt
+* | 3688bc1 Add starter code
+|/  
+* 7c435c2 Initial commit
+* f5db7b1 Change 4 to 6 and add 6,7,8
+* 26baf08 Initital commit
